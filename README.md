@@ -1,6 +1,9 @@
-### Hello 👋
+### Hello, I'm Asthowen 👋
 
-I'm Python and Java developper.
+- 💡 I’m currently working on [Neron](https://github.com/NeronApp) and [Celeria](https://github.com/Asthowen/Celeria-music-player)
+
+- 🔥 My WebSite is available [here](https://asthowen.com)
+
 
 ## I'm using
 

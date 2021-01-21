@@ -13,5 +13,5 @@
 
 ## Stats
 
-<img align="left" alt="Asthowen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Asthowen&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="right" alt="Asthowen's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthowen&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Asthowen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Asthowen&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Asthowen's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthowen&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />

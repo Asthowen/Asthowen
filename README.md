@@ -8,7 +8,7 @@
 ## I'm using
 
 <img align="left" alt="PyCharm Professional" width="27px" src="https://img.asthowen.fr/PyCharm"/>
-<img align="left" alt="Intellij Ultimate" width="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+<img align="left" alt="Intellij Ultimate" width="27px" src="https://img.asthowen.fr/IntelIJ"/>
 <br/>
 
 ## Stats

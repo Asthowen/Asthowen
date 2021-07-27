@@ -11,7 +11,7 @@
 <img align="center" alt="Asthowen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Asthowen&show_icons=true&hide_border=true&theme=tokyonight" />
 <img align="center" alt="Asthowen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthowen&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
 
-## How to contanct me ?
+## How to contact me ?
 * 📭 - contact@asthowen.fr
 * 📯 - Asthowen#9241
 

@@ -1,7 +1,6 @@
 ### Hello, I'm Asthowen 🖖
 
-* I'm a 16 years old human. 
-* I dev in Python, learn Rust and work on Neron ([neronapp.com](https://neronapp.com)). I watch anime in my spare time.
+I'm a 16 yo french high school student, I develop and watch anime in my spare time. I'm currently working on the Neron project (neronapp.com).
 
 ## My projects
 * [Neron](https://github.com/NeronApp) - a search engine
@@ -13,7 +12,7 @@
 
 ## How to contact me ?
 * 📭 - contact@asthowen.fr
-* 📯 - Asthowen#9241
+* 📯 - [Asthowen#9241](https://discord.bio/p/Asthowen)
 
 ## About
 <img alt="Asthowen's logo" src="https://avatars.githubusercontent.com/u/59535754?s=460&u=e901e8df9b0172b7402362b867bdefbadb7ee7fd&v=4" width="50px" />

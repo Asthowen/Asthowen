@@ -1,6 +1,6 @@
 ### Hello, I'm Asthowen 🖖
 
-I'm a 17 yo French high school student, I develop and watch anime in my spare time.
+I'm a 18 yo French high school student, I develop and watch anime in my spare time.
 
 ## My projects
 * [Celeria](https://github.com/Asthowen/CeleriaMusicPlayer) - Celeria is a software that read, manage and download musics. 

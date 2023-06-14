@@ -13,7 +13,7 @@ I'm a 18 yo French high school student, I develop and watch anime in my spare ti
 
 ## How to contact me ?
 * 📭 - contact@asthowen.fr
-* 📯 - [Asthowen#9241](https://discords.com/bio/p/Asthowen)
+* 📯 - [@asthowen](https://discord.com/users/489826443992367128)
 * ⌨️ - [@Asthowen](https://twitter.com/Asthowen)
 * 💻 - [asthowen.fr](https://asthowen.fr)
 

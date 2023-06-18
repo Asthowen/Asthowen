@@ -11,7 +11,7 @@ I'm a 18 yo French high school student, I develop and watch anime in my spare ti
   <img alt="Asthowen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthowen&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-## How to contact me ?
+## How to contact me?
 * 📭 - contact@asthowen.fr
 * 📯 - [@asthowen](https://discord.com/users/489826443992367128)
 * ⌨️ - [@Asthowen](https://twitter.com/Asthowen)

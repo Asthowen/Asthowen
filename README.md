@@ -1,6 +1,6 @@
 ### Hello, I'm Asthowen 🖖
 
-I'm a 19 yo computer science degree student, I code and read in my spare time.
+I'm a 20 yo computer science degree student, I code and read in my spare time.
 
 ## My projects
 * [Celeria](https://github.com/Asthowen/CeleriaMusicPlayer) - Celeria is a software that read, manage and download musics. 

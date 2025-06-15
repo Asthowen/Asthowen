@@ -14,7 +14,7 @@ I'm a 20 yo computer science degree student, I code and read in my spare time.
 ## How to contact me?
 * 📭 - contact@asthowen.fr
 * 📯 - [@asthowen](https://discord.com/users/489826443992367128)
-* ⌨️ - [@Asthowen](https://twitter.com/Asthowen)
+* ⌨️ - [@Asthowen](https://x.com/Asthowen)
 * 💻 - [asthowen.fr](https://asthowen.fr)
 
 ## About
